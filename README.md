@@ -4,7 +4,7 @@
 
 # Project Overview
 
-The puporse of the project was to take a look at NYC bike sharing program to help visualize the data and present to possible investors to create a similar program in Des Moines.We specifically looked at bike trip analysis as that was requested by one of the key stakeholders.
+The puporse of the project was to take a look at NYC bike sharing program to help visualize the data and present to possible investors to create a similar program in Des Moines. We specifically looked at bike trip analysis as that was requested by one of the key stakeholders.
 
 We used provided data to demonstrate the following:
 - How long bikes are checked out for all riders.
@@ -57,6 +57,13 @@ Men have the highest number of subscriber usage during the week, followed by wom
 ![topendingstory](https://user-images.githubusercontent.com/88061345/140597130-00517edb-29fe-4d38-ba68-6dd6f434f2f9.PNG)
 
 
+# Summary
+
+Based off the analysis, we can infer that majority of users are work commuters given the peak times in morning and evening. Men are the majority of users. While this analysis showed a great deal in regards to NYC, I am not sure all are applicable in Des Moines, Iowa. NYC is a densly populated area, commuting can be a nightmare, and also has a high rate of tourism. People probably like the bike sharing services due to cost, traffic/congestion, and distance to travel in NYC. Demographics of Des Moines in terms of City and residential areas should be looked into. Where are people living vs where are they working would provide some insight to see the distance people are traveling. Age would be another factor to investigate and compare the average age of residents to see if average age of residents would be the target audience.
+
+# Dashboard
+
+![bikedashboard](https://user-images.githubusercontent.com/88061345/140597716-e8078227-aa7a-4073-856b-b62fdc38846e.PNG)
 
 
 

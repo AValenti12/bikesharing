@@ -4,11 +4,11 @@
 
 # Project Overview
 
-The puporse of the project was to take a look at NYC bike sharing program to help visualize the data and present to possible investors to create a similar program in Des Moines. We specifically looked at bike trip analysis as that was requested by one of the key stakeholders.
+The puporse of the project was to take a look at NYC bike sharing program to help visualize the data and present to possible investors to create a similar program in Des Moines, Iowa. We specifically looked at bike trip analysis as that was requested by one of the key stakeholders.
 
 We used provided data to demonstrate the following:
 - How long bikes are checked out for all riders.
-- How many trips are taken by the hour during the weekdays and all days of the week, for all riders and genders.
+- How many trips are taken by the hour during the weekdays for all riders and genders.
 - What days a user (we broke this down by gender and subscriber/short term user) is more likely to check out a bike.
 
 # Results
@@ -32,7 +32,7 @@ The 5-10 minute duration is the most popular with all genders. Men having the hi
 ![tripsbyweekdayhourstory](https://user-images.githubusercontent.com/88061345/140597049-873698c9-5e7f-4f99-8b16-59251de0046a.PNG)
 
 
-This helps visualize the usage during the week. The darker colors indicating higher usage. During the week Monday-Friday the usage increased from 5am-9am and 5pm-7pm. With highest usage in the morning around 8am and highest in the evening from 5p-6p. On the weekends the usage appears pretty consistent and no high peaks but highest usage around 11a-12pm on Saturday.
+This helps visualize the usage during the week. The darker colors indicating higher usage. During the week Monday-Friday the usage increased from 5am-9am and 5pm-7pm. With highest usage in the morning around 8am and highest in the evening from 5p-6p. On the weekends, the usage appears pretty consistent and no high peaks but highest usage around 11a-12pm on Saturday.
 
 
 # Trips by Weekday per Hour Per Gender
@@ -52,14 +52,18 @@ Men have the highest number of subscriber usage during the week, followed by wom
 
 ![topstartingstory](https://user-images.githubusercontent.com/88061345/140597114-51a90e49-59f6-42f8-9ce8-f7f391f9d0f7.PNG)
 
+This helps so the top starting locations/where people check out their bikes.
+
 # Top Ending Locations
 
 ![topendingstory](https://user-images.githubusercontent.com/88061345/140597130-00517edb-29fe-4d38-ba68-6dd6f434f2f9.PNG)
 
+This helps show where most people return their bikes. 
+
 
 # Summary
 
-Based off the analysis, we can infer that majority of users are work commuters given the peak times in morning and evening. Men are the majority of users. While this analysis showed a great deal in regards to NYC, I am not sure all are applicable in Des Moines, Iowa. NYC is a densly populated area, commuting can be a nightmare, and also has a high rate of tourism. People probably like the bike sharing services due to cost, traffic/congestion, and distance to travel in NYC. Demographics of Des Moines in terms of City and residential areas should be looked into. Where are people living vs where are they working would provide some insight to see the distance people are traveling. Age would be another factor to investigate and compare the average age of residents to see if average age of residents would be the target audience.
+Based off the analysis, we can infer that majority of users are work commuters given the peak times in morning and evening. Men are the majority of users.Men and women have higher usage during times one would be commuting to and from work. While this analysis showed a great deal in regards to NYC, I am not sure all are applicable in Des Moines, Iowa. NYC is a densly populated area, commuting can be a nightmare, and also has a high rate of tourism. People probably like the bike sharing services due to cost, traffic/congestion, and distance to travel in NYC. Demographics of Des Moines in terms of City and residential areas should be looked into. Where are people living vs where are they working would provide some insight to see the distance people are traveling. Age would be another factor to investigate and compare the average age of residents to see if average age of residents would be the target audience.
 
 # Dashboard
 
